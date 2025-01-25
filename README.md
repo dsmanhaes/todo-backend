@@ -1,6 +1,6 @@
 # Todo Backend
 
-A very simple backend for todo management without database, fail treatments and tests made in node/express with typescript.
+A very simple backend for todo management without database and tests made in node/express with typescript.
 
 ## Todo object
 
@@ -13,9 +13,9 @@ A very simple backend for todo management without database, fail treatments and 
 
 ## Endpoints
 
-- get:/todo
-- get:/todo/$id
-- get:/todo/$text
-- post:/todo
-- put:/todo/$id
-- delete:/todo/$id
+- get:/
+- get:/$id
+- get:/$text
+- post:/
+- put:/$id
+- delete:/$id
